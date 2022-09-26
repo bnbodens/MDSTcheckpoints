@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hello! My name is Benjamin Bodenschatz and I'm a 5th year in CS-LSA. My fun fact is that I love to code so I'm excited to join! 
